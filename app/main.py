@@ -163,7 +163,7 @@ def main():
 
     # Display title and description
     st.title("Breast Cancer Predictor")
-    st.write("This project uses Machine Learning to predict whether a tumor is benign or malignant.")
+    st.write("This project uses Machine Learning to predict whether a tumor is benign or malignant using random forest.")
 
     # Split layout into columns
     col1, col2 = st.columns([4, 1])
